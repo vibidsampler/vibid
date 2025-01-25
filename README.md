@@ -23,10 +23,12 @@ python scripts/sampling/vibidsampler.py
 ## Citation
 
 ```
-@article{yang2024vibidsampler,
-  title={ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler},
-  author={Yang, Serin and Kwon, Taesung and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2410.05651},
-  year={2024}
+@inproceedings{
+yang2025vibidsampler,
+title={ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler},
+author={Yang, Serin and Kwon, Taesung and Ye, Jong Chul},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=nNYA7tcJSE}
 }
 ```
