@@ -1,1 +1,1 @@
-# vibid
+# ViBiDSampler
