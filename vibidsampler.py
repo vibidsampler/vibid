@@ -19,8 +19,8 @@ from torchvision.transforms import ToTensor
 from tqdm import tqdm
 
 def sample(
-    input_start_path: str = "assets/bmx-rider/00000.jpg",
-    input_end_path: str = "assets/bmx-rider/00024.jpg",
+    input_start_path: str = "assets/00000.jpg",
+    input_end_path: str = "assets/00024.jpg",
     num_frames: Optional[int] = None,  # 21 for SV3D
     num_steps: Optional[int] = None,
     version: str = "svd_xt",
