@@ -55,12 +55,6 @@ def sample(
     )
     torch.manual_seed(seed)
 
-    # path = Path(input_start_path)
-    # if any([input_start_path.endswith(x) for x in ["jpg", "jpeg", "png"]]):
-    #     all_img_paths = [input_start_path]
-    # else:
-    #     raise ValueError("Path is not valid image file.")
-
     with Image.open(input_start_path) as image:
         input_image = image.convert("RGB")
         input_image = input_image.resize((1024, 576))
