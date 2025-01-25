@@ -1,4 +1,6 @@
-# ViBiDSampler
+# ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sample (ICLR 2025 Accepted)
+
+[Paper](https://arxiv.org/abs/2410.05651) | [Project page](https://vibidsampler.github.io/)
 
 ## How to use
 ### Environment setting
