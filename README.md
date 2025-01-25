@@ -1,6 +1,14 @@
-# ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sample (ICLR 2025 Accepted)
+# ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler (ICLR 2025)
 
 [Paper](https://arxiv.org/abs/2410.05651) | [Project page](https://vibidsampler.github.io/)
+
+This repository is the official PyTorch implementation of "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler".
+
+<p align="center" width="100%">
+    <img src='./assets/teaser.gif' width='99%'>
+</p>
+
+
 
 ## How to use
 ### 1. Environment setting
