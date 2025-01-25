@@ -4,10 +4,7 @@
 
 ## How to use
 ### Environment setting
-**Python** 3.10.14 \
-**Torch** 2.0.1 
-
-Our source code relies on [generative-models](https://github.com/Stability-AI/generative-models). \
+Our source code relies on [generative-models](https://github.com/Stability-AI/generative-models). Please clone the generatvie-models, and then place ```vibidsampler.py``` to the directory ```scripts/sampling```.
 Follow the environment setting from the [generative-models](https://github.com/Stability-AI/generative-models).
 
 ### Pre-trained model
@@ -22,3 +19,14 @@ python scripts/sampling/vibidsampler.py
 + The paths to the source frames should be specified using the flags ```input_start_path``` and ```input_end_path```.
 + You can adjust the ```fps_id``` (approximately between 6 and 24) according to the specific use case.
 
+
+## BibTeX
+
+```
+@article{yang2024vibidsampler,
+  title={ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler},
+  author={Yang, Serin and Kwon, Taesung and Ye, Jong Chul},
+  journal={arXiv preprint arXiv:2410.05651},
+  year={2024}
+}
+```
