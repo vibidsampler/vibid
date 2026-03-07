@@ -2,7 +2,7 @@
 
 [Paper](https://arxiv.org/abs/2410.05651) | [Project page](https://vibidsampler.github.io/)
 
-This repository is the official PyTorch implementation of "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler".
+Official PyTorch implementation of "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler".
 
 <p align="center" width="100%">
     <img src='./assets/teaser.gif' width='99%'>
