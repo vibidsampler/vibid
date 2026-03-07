@@ -1,4 +1,4 @@
-# ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler (ICLR 2025)
+# [ICLR 2025] ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler
 
 [Paper](https://arxiv.org/abs/2410.05651) | [Project page](https://vibidsampler.github.io/)
 
